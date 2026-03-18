@@ -1,1 +1,0 @@
-# redis-tech-exam
